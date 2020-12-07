@@ -98,7 +98,7 @@ celerybeat-schedule
 *.sage.py
 
 # Environments
-.env
+# .env  # Removed so that empty env file can be committed for tutorial
 .venv
 env/
 venv/
